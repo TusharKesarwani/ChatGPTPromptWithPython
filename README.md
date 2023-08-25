@@ -9,12 +9,17 @@ ChatGPT Advanced Prompting With Python
 
 # Step to run this project:
 ## Step 1. Install Dependencies
-Format of .env file
+<br>
 <b> CODE </b> -- ```  pip install openai ```
+<be>
 <b> CODE </b> -- ```  pip install bs4 ```
+<br>
 <b> CODE </b> -- ```  pip install html2text ```
+<br>
 <b> CODE </b> -- ```  pip install streamlit ```
+<br>
 <b> CODE </b> -- ```  pip install selenium ```
+<br>
 <b> CODE </b> -- ```  pip install selenium_stealth ```
 
 ## Step 2. Add your Open API Key and organization
