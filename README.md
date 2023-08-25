@@ -5,28 +5,35 @@ ChatGPT Advanced Prompting With Python
 # Description
 <h3>About app:</h3>
    You Can Generate Images, Analyze Current Crypto Prices, and Search The Web With this ChatGPT Prompt With Python App
-<br>
+<be>
 
-# Step to run this project:
-## Step 1. Install Dependencies
-<br>
 
-<b> CODE </b> -- ```  pip install openai  ```
+## Setup
 
-<b> CODE </b> -- ```  pip install bs4  ```
+1. Clone this repository to your local machine.
+```bash
+git clone https://github.com/TusharKesarwani/ChatGPTPromptWithPython.git
+cd ChatGPTPromptWithPython
+```
 
-<b> CODE </b> -- ```  pip install html2text  ```
+2. Install the required dependencies using pip.
+```bash
+pip install openai bs4 html2text streamlit selenium selenium_stealth
+```
 
-<b> CODE </b> -- ```  pip install streamlit  ```
+3. Replace 'YOUR_OPENAI_API_KEY_HERE' with your actual OpenAI API key and 'YOUR_OPENAI_ORGANIZATION' with your actual OpenAI Organization in the app.py file.
 
-<b> CODE </b> -- ```  pip install selenium  ```
-
-<b> CODE </b> -- ```  pip install selenium_stealth  ```
-
-## Step 2. Add your Open API Key and organization
-In app-users.py file, add your Open API Key and Organization.
-
-<br>
-
-## Step 3. Run This Project from Root folder
+4. Run This Project from the Root folder
 <b> CODE </b> -- ``` python -m streamlit run app-users.py ```
+
+
+## Contributing
+Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or create a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+
+<h1 align=center>Happy Coding 👨‍💻</h1>
+
+Show some ❤️&nbsp; by giving the star to this repo
